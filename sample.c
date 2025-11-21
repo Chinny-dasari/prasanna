@@ -8,6 +8,7 @@ int main()
  	scanf("%d",&b);
  	c=a+b;
  	printf("sum c= %d\n",c);
+	printf("welcome to Git");
 	
 	return 0;
 }
