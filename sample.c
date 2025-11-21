@@ -9,7 +9,7 @@ int main()
  	c=a+b;
  	printf("sum c= %d\n",c);
 	printf("welcome to Git");
-	printf("welcome to devops");
+
 	
 	return 0;
 }
